@@ -1,8 +1,4 @@
-SALDO PRO 6.1 — GITHUB PAGES
-
-Carica nella radice della repository tutti i file e la cartella icons.
-I file richiesti sono index.html, sw.js, manifest.webmanifest, version.json, icons/icon-192.png, icons/icon-512.png.
-Non caricare lo ZIP come unico file. Mantieni invariato il link GitHub Pages.
-Prima di aggiornare, esporta un backup JSON dall’app.
-Il pulsante occhio nasconde solo il saldo effettivo del conto: i movimenti e altri totali restano visibili.
-Se pubblichi altre versioni, incrementa version.json e il nome CACHE in sw.js.
+Saldo Pro 7.0 per GitHub Pages
+Carica index.html, manifest.webmanifest, sw.js, version.json e la cartella icons nella root della repository mastercarle/SaldoPro.
+NON cancellare i dati del sito. Esporta un backup prima di aggiornare.
+Saldo bancario: solo movimenti reali. Previsioni: ricorrenze ancora da pagare. Backup JSON: non cifrato.
